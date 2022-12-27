@@ -45,7 +45,7 @@ Results from the SQL queries were all put into panda dataframes and printed to c
 
 ![image](https://user-images.githubusercontent.com/66758884/209452056-ffe0be13-3b11-454e-a556-58338fe400b6.png)
 
-- Taking the average of might have skewed the results, as Gary Kasparov was the only titled GM in 1980 with the second highest max Elo rating of all time.
+- Taking the average elo of each title year might have skewed the results, as Gary Kasparov was the only titled GM in 1980 with the second highest max Elo rating of all time.
 
 **How many GM's have surpassed Garry Kasparov in peak ELO rating?**
 
